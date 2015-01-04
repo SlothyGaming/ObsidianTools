@@ -1,0 +1,18 @@
+item.oSword.name=Obsidian Sword
+item.oAxe.name=Obsidian Axe
+item.oHoe.name=Obsidian Hoe
+item.oPickaxe.name=Obsidian Pickaxe
+item.oSpade.name=Obsidian Spade
+
+item.enderSword.name=Ender Sword
+item.enderAxe.name=Ender Axe
+item.enderHoe.name=Ender Hoe
+item.enderPickaxe.name=Ender Pickaxe
+item.enderSpade.name=Ender Spade
+
+item.enderBag.name=Ender Bag
+item.enderCaneItem.name=Ender Cane
+
+tile.EnderCane.name=Ender Cane
+
+itemGroup.tabObsidianTools=Obsidian Tools
